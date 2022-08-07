@@ -1,0 +1,124 @@
+.container {
+  width: 980px;
+  margin: 0px auto;
+}
+
+.chon {
+  float: right;
+}
+
+.chon p {
+  width: 61px;
+  height: 24px;
+  font-family: Tahoma;
+  font-size: small;
+  font-weight: 500;
+  float: left;
+}
+
+.chon>p>a {
+  text-decoration: none;
+  color: black;
+}
+
+.textim {
+  padding-top: 20px;
+  margin-left: 150px;
+  clear: both;
+}
+
+.textim>p {
+  font-family: Tahoma;
+  font-size: larger;
+  font-weight: bolder;
+}
+
+.textim>h6 {
+  margin-top: -10px;
+  font-family: Tahoma;
+  font-weight: 400;
+  font-size: 12px;
+}
+
+.anh1 {
+  float: right;
+  margin-top: -140px;
+  clear: both;
+}
+
+.anh1>img {
+  margin-right: 200px;
+  width: 165px;
+  height: 165px;
+  float: left;
+}
+
+.nd1 {
+  margin-left: 150px;
+  margin-top: 10px;
+  width: 700px;
+}
+
+.nd1>img {
+  width: 200px;
+  height: 160px;
+}
+
+.nd1>p {
+  margin-top: -10px;
+  margin-left: 230px;
+  margin-top: -160px;
+}
+
+.nd1>h6 {
+  margin-top: -10px;
+  font-family: Tahoma;
+  font-weight: 400;
+  background-color: rgb(34, 0, 118);
+  border-radius: 10px;
+  height: 15px;
+  margin-left: 230px;
+  color: white;
+  width: 30px;
+  padding-top: 2px;
+  padding-left: 6px;
+}
+
+.nd1 a {
+  text-decoration: none;
+  color: black;
+}
+
+.text1 {
+  margin-left: 230px;
+}
+
+.text1>h62 {
+  margin-top: -10px;
+  font-family: Tahoma;
+  font-size: 12px;
+}
+
+footer {
+  padding-right: 350px;
+  text-align: center;
+  padding-top: 80px;
+  float: right;
+}
+
+footer>img {
+  margin-left: 6px;
+  float: left;
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+}
+
+footer>p {
+  padding-top: 20px;
+  clear: both;
+  padding-right: 35px;
+  margin-top: -10px;
+  font-family: Tahoma;
+  font-size: 12px;
+}

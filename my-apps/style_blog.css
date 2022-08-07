@@ -1,0 +1,107 @@
+.container {
+  width: 980px;
+  margin: 0px auto;
+}
+
+.chon {
+  padding-right: 100px;
+  float: right;
+}
+
+.chon>p {
+  width: 61px;
+  height: 24px;
+  font-family: Tahoma;
+  font-size: small;
+  font-weight: 500;
+  float: left;
+}
+
+.chon>p>a {
+  text-decoration: none;
+  color: black;
+}
+
+.banner>img {
+  width: 100%;
+}
+
+.title>p {
+  margin-left: 400px;
+  padding-top: 20px;
+  margin-bottom: 50px;
+  font-weight: bold;
+  font-family: Tahoma;
+}
+
+.danhmuc {
+  margin-left: 120px;
+}
+
+.danhmuc>img {
+  width: 250px;
+}
+
+.danhmuc>p {
+  margin-left: 280px;
+  font-family: Tahoma;
+  font-weight: bold;
+  margin-top: -150px;
+}
+
+.danhmuc>h6 {
+  margin-left: 280px;
+  font-family: Tahoma;
+  font-weight: lighter;
+  margin-top: -5px;
+  margin-bottom: 10px;
+}
+
+.tl2 {
+  margin-top: -22px;
+}
+
+.tl2>h6 {
+  margin-left: 350px;
+  font-size: 11px;
+  font-family: Tahoma;
+  font-weight: lighter;
+  margin-top: -5px;
+  color: gray;
+}
+
+.nd>p {
+  margin-left: 400px;
+  font-family: Tahoma;
+  font-size: 12px;
+  margin-top: -10px;
+}
+
+.danhmuc>p>a {
+  text-decoration: none;
+  color: black;
+}
+
+footer {
+  padding-right: 350px;
+  text-align: center;
+  padding-top: 80px;
+  float: right;
+}
+
+footer>img {
+  margin-left: 6px;
+  float: left;
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+}
+
+footer>p {
+  padding-top: 20px;
+  clear: both;
+  padding-right: 35px;
+  margin-top: -10px;
+  font-family: Tahoma;
+  font-size: 12px;
+}

@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@300&family=Righteous&display=swap');
+
+* {
+  padding: 0px;
+  margin: 0px;
+
+}
+
+.container {
+  margin: 0px auto;
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+
+}
+
+.information {
+  height: 700px;
+  background-image: url(/ASM2/images/bann.jpg);
+  background-size: 1440px;
+  position: relative;
+  text-align: center;
+
+}
+
+.box {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-color: rgba(255, 255, 255, 0.07);
+  margin: 30px 0px 0px 470px;
+}
+
+.box>form>i {
+  color: white;
+  padding: 14px;
+  background-color: #00c6d7;
+
+
+}
+
+.box>form>p {
+  color: #00c6d7;
+  margin: 15px 0px 0px 130px;
+  display: none;
+  position: absolute;
+  font-style: italic;
+}
+
+
+
+
+
+.item {
+  border: 1px dotted red;
+  padding: 20px 0px 50px 50px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  margin-left: 200px;
+  width: 980px;
+
+}
